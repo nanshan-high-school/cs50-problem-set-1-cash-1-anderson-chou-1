@@ -6,7 +6,7 @@ int main() {
 	float money;
 	
 	do {
-		cout << "請輸入正確的金額(以角為單位):";
+		cout << "請輸入正確的金額:";
 		
 		cin >> money;
 	} while (money < 0);
